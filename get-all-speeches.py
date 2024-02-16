@@ -5,7 +5,7 @@ def main():
     try:
         # Initialize
         otter = OtterAI()
-        otter.login('', '')
+        otter.login('YOUR_EMAIL', 'YOUR_PASSWORD')
         
         # found this to work to get the transcript alone from the data output when you use 'speech = otter.get_speech'
         speech = otter.get_speeches()
