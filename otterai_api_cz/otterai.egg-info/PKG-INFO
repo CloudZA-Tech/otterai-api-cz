@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: otterai
+Version: 0.0.1
+Summary: Unofficial Otter.ai Python API
+Author: Chad Lohrli
+Keywords: python,otterai,api
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: requests_toolbelt
+Requires-Dist: django
